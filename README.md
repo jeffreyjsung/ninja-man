@@ -1,2 +1,2 @@
 # NINJA-MAN
-Simple 2D fighting game made with Unity.
+2D fighting game made with Unity.
